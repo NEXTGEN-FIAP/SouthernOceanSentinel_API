@@ -20,6 +20,7 @@ public class PhotoRecord {
     @Id
     @GeneratedValue
     private Long id;
+    @Column(name = "date_created")
     private LocalDateTime date;
     @Lob
     private byte[] imageData;
