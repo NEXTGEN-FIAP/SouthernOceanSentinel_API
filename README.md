@@ -34,6 +34,10 @@
 - Link video demonstrando projeto:
 - Link video pitch:
 - Link repositorio da API externa: https://github.com/NEXTGEN-FIAP/RoboflowModelAPI
+
+## ARTEFATOS DE CONEXÃO:
+- Banco de Dados Oracle - SQL Developer
+- Atente-se ao application.properties, configurar datasource.username e password conforme suas credenciais de conexão.
   
 ## JSONS PARA TESTE:
 ### Cadastrando uma base de pesquisa:
