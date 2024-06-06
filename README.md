@@ -13,7 +13,7 @@
 - ![image](https://github.com/RickMaverick/SouthernOceanSentinel_API/assets/122487111/ae93ec45-ae78-461a-b0c8-c0c54ff5444c)
 
 ## ARQUITETURA DO PROJETO
-- img
+- ![image](https://github.com/NEXTGEN-FIAP/SouthernOceanSentinel_API/assets/122487111/04b0bc5b-5b10-488c-84c9-56c7af7fa7e3)
 
 ## ENDPOINTS E DOCUMENTAÇÃO DA API
 ### LINK SWAGGER: http://localhost:8080/swagger-ui/index.html#/
