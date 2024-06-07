@@ -32,7 +32,7 @@
 
 ## ANEXOS
 - Link video demonstrando projeto: https://www.youtube.com/watch?v=wcql7NyW69g
-- Link video pitch: 
+- Link video pitch: https://www.youtube.com/watch?v=O1Ca2NIgGiY
 - Link repositorio da API externa: https://github.com/NEXTGEN-FIAP/RoboflowModelAPI
 
 ## ARTEFATOS DE CONEXÃO:
