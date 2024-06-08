@@ -31,7 +31,7 @@
 - obs2: após clonar o projeto e instalar as dependencias, utilize o comando "uvicorn main:app". 
 
 ## ANEXOS
-- Link video demonstrando projeto: https://www.youtube.com/watch?v=wcql7NyW69g
+- Link video demonstrando projeto: [https://www.youtube.com/watch?v=wcql7NyW69g](https://youtu.be/qDXciwMB0eE)
 - Link video pitch: https://www.youtube.com/watch?v=O1Ca2NIgGiY
 - Link repositorio da API externa: https://github.com/NEXTGEN-FIAP/RoboflowModelAPI
 
