@@ -34,6 +34,7 @@
 - Link video demonstrando projeto: [https://www.youtube.com/watch?v=wcql7NyW69g](https://youtu.be/qDXciwMB0eE)
 - Link video pitch: https://www.youtube.com/watch?v=O1Ca2NIgGiY
 - Link repositorio da API externa: https://github.com/NEXTGEN-FIAP/RoboflowModelAPI
+- Link do repositorio da aplicação rodando em Docker: https://github.com/NEXTGEN-FIAP/DockerCompose-SOS/tree/main
 
 ## ARTEFATOS DE CONEXÃO:
 - Banco de Dados Oracle - SQL Developer
